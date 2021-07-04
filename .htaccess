@@ -1,0 +1,7 @@
+RewriteEngine on
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^stream/(.*)?$ stream/index.php?a=$1 [QSA,NC,L]
