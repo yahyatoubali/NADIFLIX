@@ -33,4 +33,4 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 Contacting Us
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at keyliveshop@gmail.com. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at nadiflixapp@gmail.com. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
